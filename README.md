@@ -2,7 +2,6 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">I'm a frontend developer from Russia 🇷🇺</h3>
 <br/>
-<br/>
 <hr>
 <h3>Skills and Tools</h3>
 <img align="left" alt="vscode" width="30px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png"/>
