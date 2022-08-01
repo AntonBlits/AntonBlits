@@ -17,3 +17,4 @@
 <hr>
 <h3>You can contact me:</h3>
 <a href="https://vk.com/antony_blits"><img width="30px" src="https://user-images.githubusercontent.com/88035547/182138614-4ac94db9-f7cf-4bec-bb65-dad001bb5920.png"/></a>
+<a href=" https://t.me/antonyblits"><img width="30px" src="https://user-images.githubusercontent.com/88035547/182139424-deec01d4-1f5f-4e2e-ae91-62041aef357c.png"/></a>
