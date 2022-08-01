@@ -5,7 +5,7 @@
 <br/>
 <br/>
 <ul list-style-type="none">
-<li>1</li>
+<li list-style-type="none">1</li>
 <li>1</li>
 <li>1</li>
 </ul>
