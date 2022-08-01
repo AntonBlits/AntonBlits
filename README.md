@@ -16,4 +16,4 @@
 <br/>
 <hr>
 <h3>You can contact me:</h3>
-<a href="https://vk.com/antony_blits" target="_blank"><img width="30px" src="https://user-images.githubusercontent.com/88035547/182138614-4ac94db9-f7cf-4bec-bb65-dad001bb5920.png"/></a>
+<a href="https://vk.com/antony_blits"><img width="30px" src="https://user-images.githubusercontent.com/88035547/182138614-4ac94db9-f7cf-4bec-bb65-dad001bb5920.png"/></a>
